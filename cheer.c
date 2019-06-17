@@ -1,4 +1,4 @@
 #include <stdio.h>
- void cheer(int barmi){
-    printf("I choose C");
+ void cheer(int barmi, int barmi2){
+    printf("I choose C %d%d", barmi, barmi2);
 }
