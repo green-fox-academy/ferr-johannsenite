@@ -1,4 +1,4 @@
-void greet(char name)
+void greet(char name, char city)
 {
-    printf("Greetings %s!", name);
+    printf("Greetings %s, from %s!", name, city);
 }
