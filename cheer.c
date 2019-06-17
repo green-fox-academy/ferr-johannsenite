@@ -1,4 +1,4 @@
 #include <stdio.h>
- void cheer(){
+ void cheer(int barmi){
     printf("fer-johannsenite");
 }
