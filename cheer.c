@@ -1,4 +1,4 @@
 #include <stdio.h>
  void cheer(int barmi){
-    printf("fer-johannsenite");
+    printf("I choose C");
 }
